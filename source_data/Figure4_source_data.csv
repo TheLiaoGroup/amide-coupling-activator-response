@@ -1,0 +1,9 @@
+target,model,R2
+EEDQ - BTFFH,baseline (train-fold mean),-0.03860020601700942
+EEDQ - BTFFH,two-state descriptor,0.1642935542525673
+EEDQ - BTFFH,carboxyl-carbon charge,0.2787358475259809
+EEDQ - BTFFH,structural + charge (joint),0.25496340509846804
+IIDQ - BTFFH,baseline (train-fold mean),-0.03355255720252548
+IIDQ - BTFFH,two-state descriptor,0.1387886059952429
+IIDQ - BTFFH,carboxyl-carbon charge,0.26422244579754717
+IIDQ - BTFFH,structural + charge (joint),0.23620576469455967
